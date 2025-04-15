@@ -1,3 +1,3 @@
-# Assignment-1
+# Assignments
 College Assignment 
 Enrollment: 2402030430111
